@@ -1,0 +1,5 @@
+.DS_Store
+/bin
+/pkg
+consul-ns1
+/dist
